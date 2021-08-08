@@ -1,0 +1,6 @@
+1. Endpoint URL= {{url}}/api/convert/binner
+   method = POST
+   Params = bil (binner)
+2. Endpoint URL= {{url}}/api/palindrom
+   method = POST
+   Params = teks (string)
